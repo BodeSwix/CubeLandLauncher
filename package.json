@@ -1,15 +1,15 @@
 {
-    "name": "OkaClient",
-    "preductname": "Oka Client",
+    "name": "CubeLand",
+    "preductname": "CubeLand Launcher",
     "version": "1.0.2",
-    "description": "Launcher Minecraft PvP Optimisé",
+    "description": "Launcher Minecraft Moddé pour CubeLand",
     "main": "src/app.js",
     "author": {
         "name": "Bode",
         "email": "bode@now-heberg.com",
         "url": "https://github.com/BodeSwix"
     },
-    "url": "https://launcher.luuxis.fr",
+    "url": "http://cubelandlauncher.nowh.fun",
     "engines": {
         "node": "^18.x.x"
     },
@@ -41,6 +41,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BodeSwix/OkaClient.git"
+        "url": "git+https://github.com/BodeSwix/CubeLandLauncher.git"
     }
 }
